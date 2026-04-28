@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋, I'm Anas<br>I'm a Full Stack Developer — I take a project from zero to deployed, solo. Frontend, backend, databases, infrastructure — I handle it all without splitting it into pieces.<br>Tech I work with daily:<br>Frontend   →  React.js · Next.js · JavaScript (ES6+)<br>Backend    →  Node.js · Express.js<br>Database   →  MongoDB<br>Open Source:<br>🔐 I've built and published production-ready authentication npm packages — real-world tested, developer-friendly, and ready to drop into any project. No reinventing the wheel needed.<br>I don't just consume the ecosystem — I contribute to it.
+Hey there 👋, I'm Anas!<br>I'm a Full Stack Developer — I take a project from zero to deployed, solo. Frontend, backend, databases, infrastructure — I handle it all without splitting it into pieces.<br>Tech I work with daily:<br>Frontend   →  React.js · Next.js · JavaScript (ES6+)<br>Backend    →  Node.js · Express.js<br>Database   →  MongoDB<br>Open Source:<br>🔐 I've built and published production-ready authentication npm packages — real-world tested, developer-friendly, and ready to drop into any project. No reinventing the wheel needed.<br>I don't just consume the ecosystem — I contribute to it.
 
 
 ## 🌐 Socials:
