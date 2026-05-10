@@ -2,7 +2,7 @@
 
 # Hi, I am Syed Muhammad Anas! 👏
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+%26+Mobile+Application+Developer+%F0%9F%9A%80;Building+products%2C+not+just+code+%E2%9A%A1;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Published+2+NPM+Packages+%F0%9F%93%A6;Open+to+Internships+%26+Opportunities+%F0%9F%94%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+%26+Mobile+Application+Developer+%F0%9F%9A%80;Building+products%2C+not+just+code+%E2%9A%A1;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;Published+2+NPM+Packages+%F0%9F%93%A6;Open+to+Internships+%26+Opportunities+%F0%9F%94%8D)](https://git.io/typing-svg)
 
 <br/>
 
