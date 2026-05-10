@@ -176,5 +176,5 @@ A social media platform for creating and sharing posts with a clean feed UI.
 <!--
 Keywords: Full Stack Developer Karachi, React Developer Pakistan,
 Next.js Developer, Node.js, TypeScript, Flutter, React Native,
-Mobile App Developer, Web Developer, Internship, Junior Developer
+Mobile App Developer, Web Developer, Internship, Junior Developer, MERN stack developer
 -->
