@@ -24,19 +24,19 @@
 ```typescript
 const anas = {
   name: "Syed Muhammad Anas",
-  location: "Karachi, Pakistan 🇵🇰",
-  role: "Full Stack & Mobile Developer",
+  location: "Karachi, Pakistan",
+  role: "Full Stack Web & Mobile Application Developer",
   openTo: ["Internships", "Full-time roles", "Freelance"],
 
   stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend:   ["Node.js", "Express", "NestJS", "FastAPI"],
-    mobile:    ["React Native", "Expo", "Flutter"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+    frontend:  ["React.js", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express", "NestJS", "RESTAPI"],
+    mobile:    ["React Native", "Expo"],
+    databases: ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
     devops:    ["Docker", "Vercel", "Railway", "Render"],
   },
 
-  currentlyLearning: ["Kubernetes", "System Design", "Microservices"],
+  currentlyLearning: ["Certified Agentic AI Architect", "System Design", "Microservices"],
   funFact: "I published 2 NPM packages used by real devs 📦",
 };
 ```
