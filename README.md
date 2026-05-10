@@ -183,9 +183,9 @@ A social media platform for creating and sharing posts with a clean feed UI.
 
 
 
-<div align="center">
+<div align="left">
 
-# Syed Muhammad Anas
+# Hi, I am Anas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer+%F0%9F%9A%80;Building+products%2C+not+just+code+%E2%9A%A1;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Published+2+NPM+Packages+%F0%9F%93%A6;Open+to+Internships+%26+Opportunities+%F0%9F%94%8D)](https://git.io/typing-svg)
 
@@ -206,18 +206,18 @@ A social media platform for creating and sharing posts with a clean feed UI.
 const anas = {
   name: "Syed Muhammad Anas",
   location: "Karachi, Pakistan 🇵🇰",
-  role: "Full Stack & Mobile Developer",
+  role: "Full Stack Web & Mobile Application Developer",
   openTo: ["Internships", "Full-time roles", "Freelance"],
 
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
     backend:   ["Node.js", "Express", "NestJS", "FastAPI"],
-    mobile:    ["React Native", "Expo", "Flutter"],
+    mobile:    ["React Native", "Expo"],
     databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
     devops:    ["Docker", "Vercel", "Railway", "Render"],
   },
 
-  currentlyLearning: ["Kubernetes", "System Design", "Microservices"],
+  currentlyLearning: [" Certified Agentic AI Architect", "System Design", "Microservices"],
   funFact: "I published 2 NPM packages used by real devs 📦",
 };
 ```
