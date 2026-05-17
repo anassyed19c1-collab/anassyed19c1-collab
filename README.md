@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://anas-profile.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)]([https://anas-profile.lovable.app/](https://my-portfolio.anas-syed19c1.workers.dev/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-anas-30664539a/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~syed-muhammad-anas)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.syed19c1@gmail.com)
